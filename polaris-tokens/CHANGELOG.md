@@ -1,5 +1,11 @@
 # Changelog
 
+## 19.0.1
+
+### Patch Changes
+
+- [`faaa7b3`](https://github.com/medentic/polaris-design-system/commit/faaa7b3e9138d76452ebbf341c2b146e62f0daff) Thanks [@junaidatique](https://github.com/junaidatique)! - Configure publishing for `@medentic/polaris-*` packages via GitHub Packages.
+
 ## 9.4.2
 
 ### Patch Changes
