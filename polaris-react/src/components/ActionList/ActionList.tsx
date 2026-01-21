@@ -1,5 +1,5 @@
 import React, {useContext, useMemo, useRef, useState} from 'react';
-import {SearchIcon} from '@shopify/polaris-icons';
+import {SearchIcon} from '@medentic/polaris-icons';
 
 import type {ActionListItemDescriptor, ActionListSection} from '../../types';
 import {Key} from '../../types';

@@ -1,5 +1,5 @@
 import React, {useCallback} from 'react';
-import {AlertTriangleIcon} from '@shopify/polaris-icons';
+import {AlertTriangleIcon} from '@medentic/polaris-icons';
 
 import {Button} from '../../../Button';
 import {Image} from '../../../Image';

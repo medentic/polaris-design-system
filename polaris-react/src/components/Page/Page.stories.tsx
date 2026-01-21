@@ -7,7 +7,7 @@ import {
   ExternalIcon,
   ViewIcon,
   MenuVerticalIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 import {
   Badge,
   Button,

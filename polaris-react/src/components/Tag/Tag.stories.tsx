@@ -9,7 +9,7 @@ import {
   BlockStack,
   Text,
 } from '@shopify/polaris';
-import {WandIcon} from '@shopify/polaris-icons';
+import {WandIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Tag,

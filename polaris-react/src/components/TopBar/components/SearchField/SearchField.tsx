@@ -1,5 +1,5 @@
 import React, {useCallback, useEffect, useState, useRef, useId} from 'react';
-import {XCircleIcon, SearchIcon} from '@shopify/polaris-icons';
+import {XCircleIcon, SearchIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../../../utilities/css';
 import {useI18n} from '../../../../utilities/i18n';

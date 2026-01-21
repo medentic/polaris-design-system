@@ -11,7 +11,7 @@ import {
   BlockStack,
   TextContainer,
 } from '@shopify/polaris';
-import {MagicIcon} from '@shopify/polaris-icons';
+import {MagicIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Toast,

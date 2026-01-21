@@ -1,5 +1,5 @@
 import React from 'react';
-import {ChevronLeftIcon, ChevronRightIcon} from '@shopify/polaris-icons';
+import {ChevronLeftIcon, ChevronRightIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../../../utilities/css';
 import {useI18n} from '../../../../utilities/i18n';

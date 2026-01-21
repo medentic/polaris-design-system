@@ -1,6 +1,6 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
-import {DeleteIcon} from '@shopify/polaris-icons';
+import {DeleteIcon} from '@medentic/polaris-icons';
 
 import {BulkActions} from './BulkActions';
 

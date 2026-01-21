@@ -3,7 +3,7 @@ import {
   SelectIcon,
   ChevronDownIcon,
   ChevronUpIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 import {useBreakpoints} from '../../utilities/breakpoints';
 import type {BaseButton, IconSource} from '../../types';

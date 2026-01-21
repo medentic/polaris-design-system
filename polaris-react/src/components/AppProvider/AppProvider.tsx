@@ -1,10 +1,10 @@
 import React, {Component} from 'react';
-import type {ThemeName} from '@shopify/polaris-tokens';
+import type {ThemeName} from '@medentic/polaris-tokens';
 import {
   createThemeClassName,
   themeNameDefault,
   themeNames,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 
 import {EphemeralPresenceManager} from '../EphemeralPresenceManager';
 import {MediaQueryProvider} from '../MediaQueryProvider';

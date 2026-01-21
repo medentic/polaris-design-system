@@ -1,5 +1,5 @@
 import React, {useCallback} from 'react';
-import {CheckIcon} from '@shopify/polaris-icons';
+import {CheckIcon} from '@medentic/polaris-icons';
 
 import {useToggle} from '../../../../utilities/use-toggle';
 import type {IconProps} from '../../../Icon';

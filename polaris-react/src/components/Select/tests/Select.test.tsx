@@ -1,6 +1,6 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {CheckCircleIcon} from '@shopify/polaris-icons';
+import {CheckCircleIcon} from '@medentic/polaris-icons';
 
 import {InlineError} from '../../InlineError';
 import {Icon} from '../../Icon';

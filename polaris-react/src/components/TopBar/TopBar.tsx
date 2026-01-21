@@ -1,5 +1,5 @@
 import React from 'react';
-import {MenuIcon} from '@shopify/polaris-icons';
+import {MenuIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../utilities/css';
 import {getWidth} from '../../utilities/get-width';

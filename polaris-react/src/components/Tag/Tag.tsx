@@ -1,5 +1,5 @@
 import React from 'react';
-import {XSmallIcon} from '@shopify/polaris-icons';
+import {XSmallIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../utilities/css';
 import {useI18n} from '../../utilities/i18n';

@@ -1,6 +1,6 @@
 import React, {PureComponent, createRef} from 'react';
 import type {MouseEvent} from 'react';
-import {XIcon} from '@shopify/polaris-icons';
+import {XIcon} from '@medentic/polaris-icons';
 import {CSSTransition} from 'react-transition-group';
 
 import {useI18n} from '../../utilities/i18n';

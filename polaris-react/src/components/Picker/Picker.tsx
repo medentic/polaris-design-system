@@ -6,7 +6,7 @@ import React, {
   useRef,
   useState,
 } from 'react';
-import {SearchIcon} from '@shopify/polaris-icons';
+import {SearchIcon} from '@medentic/polaris-icons';
 
 import {Popover} from '../Popover';
 import {

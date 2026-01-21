@@ -4,7 +4,7 @@ import {
   ChevronUpIcon,
   PlusIcon,
   SelectIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {Icon} from '../../Icon';

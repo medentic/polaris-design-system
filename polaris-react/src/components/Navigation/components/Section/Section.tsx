@@ -1,5 +1,5 @@
 import React, {useEffect, useRef, useState, useId} from 'react';
-import {MenuHorizontalIcon} from '@shopify/polaris-icons';
+import {MenuHorizontalIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../../../utilities/css';
 import {useMediaQuery} from '../../../../utilities/media-query';

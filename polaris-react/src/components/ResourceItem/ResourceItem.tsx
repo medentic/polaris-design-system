@@ -1,5 +1,5 @@
 import React, {Component, createRef, useContext, useId} from 'react';
-import {MenuHorizontalIcon} from '@shopify/polaris-icons';
+import {MenuHorizontalIcon} from '@medentic/polaris-icons';
 import isEqual from 'react-fast-compare';
 
 import {ActionList} from '../ActionList';

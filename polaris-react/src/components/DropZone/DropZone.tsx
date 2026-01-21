@@ -7,7 +7,7 @@ import React, {
   useId,
 } from 'react';
 import type {FunctionComponent} from 'react';
-import {UploadIcon, AlertCircleIcon} from '@shopify/polaris-icons';
+import {UploadIcon, AlertCircleIcon} from '@medentic/polaris-icons';
 
 import {debounce} from '../../utilities/debounce';
 import {classNames, variationName} from '../../utilities/css';

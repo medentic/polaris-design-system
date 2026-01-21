@@ -1,8 +1,8 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {Icon, Text, BlockStack, InlineStack} from '@shopify/polaris';
-import * as polarisIcons from '@shopify/polaris-icons';
-import iconMetadata from '@shopify/polaris-icons/metadata';
+import * as polarisIcons from '@medentic/polaris-icons';
+import iconMetadata from '@medentic/polaris-icons/metadata';
 
 export default {
   component: Icon,

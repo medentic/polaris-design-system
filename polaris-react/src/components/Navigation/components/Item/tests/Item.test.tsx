@@ -1,5 +1,5 @@
 import React from 'react';
-import {PlusIcon, StarFilledIcon, StarIcon} from '@shopify/polaris-icons';
+import {PlusIcon, StarFilledIcon, StarIcon} from '@medentic/polaris-icons';
 import {matchMedia} from '@shopify/jest-dom-mocks';
 import {mountWithApp} from 'tests/utilities';
 

@@ -7,8 +7,8 @@ import React, {
   Children,
   useMemo,
 } from 'react';
-import {CheckboxIcon} from '@shopify/polaris-icons';
-import {themeDefault, toPx} from '@shopify/polaris-tokens';
+import {CheckboxIcon} from '@medentic/polaris-icons';
+import {themeDefault, toPx} from '@medentic/polaris-tokens';
 
 import {debounce} from '../../utilities/debounce';
 import {classNames} from '../../utilities/css';

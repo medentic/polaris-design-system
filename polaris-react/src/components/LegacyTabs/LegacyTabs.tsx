@@ -1,5 +1,5 @@
 import React, {PureComponent} from 'react';
-import {MenuHorizontalIcon, ChevronDownIcon} from '@shopify/polaris-icons';
+import {MenuHorizontalIcon, ChevronDownIcon} from '@medentic/polaris-icons';
 
 import {Box} from '../Box';
 import {Icon} from '../Icon';

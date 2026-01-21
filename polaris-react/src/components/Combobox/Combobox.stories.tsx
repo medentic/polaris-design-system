@@ -10,7 +10,7 @@ import {
   TextContainer,
   Text,
 } from '@shopify/polaris';
-import {SearchIcon} from '@shopify/polaris-icons';
+import {SearchIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Combobox,

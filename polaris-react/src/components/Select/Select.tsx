@@ -1,5 +1,5 @@
 import React, {useCallback, useId} from 'react';
-import {SelectIcon} from '@shopify/polaris-icons';
+import {SelectIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../utilities/css';
 import {Labelled, helpTextID} from '../Labelled';

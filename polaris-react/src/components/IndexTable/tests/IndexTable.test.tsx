@@ -1,6 +1,6 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {SortAscendingIcon, SortDescendingIcon} from '@shopify/polaris-icons';
+import {SortAscendingIcon, SortDescendingIcon} from '@medentic/polaris-icons';
 
 import {getTableHeadingsBySelector} from '../utilities';
 import {EmptySearchResult} from '../../EmptySearchResult';

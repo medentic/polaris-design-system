@@ -1,7 +1,7 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {InlineStack, Thumbnail, BlockStack} from '@shopify/polaris';
-import {NoteIcon} from '@shopify/polaris-icons';
+import {NoteIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Thumbnail,

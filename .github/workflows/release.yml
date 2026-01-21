@@ -45,6 +45,8 @@ jobs:
         with:
           node-version-file: '.nvmrc'
           cache: 'pnpm'
+          registry-url: 'https://npm.pkg.github.com'
+          scope: '@medentic'
 
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
@@ -59,6 +61,6 @@ jobs:
           version: pnpm version-packages
           publish: pnpm release-packages
         env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_CONFIG_PROVENANCE: true

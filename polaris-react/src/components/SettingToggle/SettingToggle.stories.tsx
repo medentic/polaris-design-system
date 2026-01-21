@@ -11,7 +11,7 @@ import {
   BlockStack,
   useBreakpoints,
 } from '@shopify/polaris';
-import {InfoIcon} from '@shopify/polaris-icons';
+import {InfoIcon} from '@medentic/polaris-icons';
 
 export default {
   component: SettingToggle,

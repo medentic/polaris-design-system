@@ -1,5 +1,5 @@
-import {themeDefault, getMediaConditions} from '@shopify/polaris-tokens';
-import type {BreakpointsTokenName} from '@shopify/polaris-tokens';
+import {themeDefault, getMediaConditions} from '@medentic/polaris-tokens';
+import type {BreakpointsTokenName} from '@medentic/polaris-tokens';
 
 const mediaConditions = getMediaConditions(themeDefault.breakpoints);
 

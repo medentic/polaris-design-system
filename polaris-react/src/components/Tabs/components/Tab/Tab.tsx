@@ -18,7 +18,7 @@ import {
   LayoutColumns3Icon,
   DeleteIcon,
   ChevronDownIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 import {classNames} from '../../../../utilities/css';
 import {useI18n} from '../../../../utilities/i18n';

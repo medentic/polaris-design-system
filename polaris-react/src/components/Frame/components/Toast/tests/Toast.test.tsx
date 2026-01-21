@@ -1,7 +1,7 @@
 import React from 'react';
 import {timer} from '@shopify/jest-dom-mocks';
 import {mountWithApp} from 'tests/utilities';
-import {CheckIcon} from '@shopify/polaris-icons';
+import {CheckIcon} from '@medentic/polaris-icons';
 
 import {Button} from '../../../../Button';
 import {Toast} from '../Toast';

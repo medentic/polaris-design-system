@@ -19,7 +19,7 @@ import {
   HomeFilledIcon,
   ProductFilledIcon,
   TargetFilledIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 export default {
   component: Navigation,

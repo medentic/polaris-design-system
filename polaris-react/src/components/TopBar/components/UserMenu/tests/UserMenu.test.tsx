@@ -1,5 +1,5 @@
 import React from 'react';
-import {ViewIcon} from '@shopify/polaris-icons';
+import {ViewIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {Avatar} from '../../../../Avatar';

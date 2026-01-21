@@ -1,5 +1,5 @@
 import React from 'react';
-import type {BorderWidthScale, ColorBorderAlias} from '@shopify/polaris-tokens';
+import type {BorderWidthScale, ColorBorderAlias} from '@medentic/polaris-tokens';
 
 import styles from './Divider.module.css';
 

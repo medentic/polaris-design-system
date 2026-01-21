@@ -1,5 +1,5 @@
 import React from 'react';
-import {ImportIcon, ExportIcon} from '@shopify/polaris-icons';
+import {ImportIcon, ExportIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {ActionList} from '../ActionList';

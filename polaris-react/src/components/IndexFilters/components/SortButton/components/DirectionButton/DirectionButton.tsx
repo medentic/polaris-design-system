@@ -1,6 +1,6 @@
 import React from 'react';
 import type {ReactNode} from 'react';
-import {ArrowDownIcon, ArrowUpIcon} from '@shopify/polaris-icons';
+import {ArrowDownIcon, ArrowUpIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../../../../../utilities/css';
 import {UnstyledButton} from '../../../../../UnstyledButton';

@@ -1,7 +1,7 @@
 import React, {useState, useRef, useEffect, useCallback} from 'react';
 import type {ReactNode, TransitionEvent} from 'react';
-import {createVar} from '@shopify/polaris-tokens';
-import type {MotionDurationScale} from '@shopify/polaris-tokens';
+import {createVar} from '@medentic/polaris-tokens';
+import type {MotionDurationScale} from '@medentic/polaris-tokens';
 
 import {classNames} from '../../utilities/css';
 

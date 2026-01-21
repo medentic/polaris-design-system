@@ -137,7 +137,7 @@ Each contributor is required to [sign a CLA](https://cla.shopify.com/). This pro
 
 ### Contribution prerequisites
 
-- You have Node installed at v20.11.1+ and Pnpm at v8+
+- You have Node installed at v24.0.0+ and Pnpm at v8+
 
 ### Best practices
 

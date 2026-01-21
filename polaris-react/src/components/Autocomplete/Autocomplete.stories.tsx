@@ -7,7 +7,7 @@ import {
   Tag,
   TextContainer,
 } from '@shopify/polaris';
-import {PlusCircleIcon, DeleteIcon, SearchIcon} from '@shopify/polaris-icons';
+import {PlusCircleIcon, DeleteIcon, SearchIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Autocomplete,

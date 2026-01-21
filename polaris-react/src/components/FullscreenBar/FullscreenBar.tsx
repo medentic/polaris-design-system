@@ -1,5 +1,5 @@
 import React from 'react';
-import {ExitIcon} from '@shopify/polaris-icons';
+import {ExitIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../Icon';
 import {Text} from '../Text';

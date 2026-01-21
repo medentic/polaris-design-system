@@ -17,7 +17,7 @@ import {
   BlockStack,
   Box,
 } from '@shopify/polaris';
-import {ProductIcon, XIcon} from '@shopify/polaris-icons';
+import {ProductIcon, XIcon} from '@medentic/polaris-icons';
 
 export default {
   component: LegacyCard,

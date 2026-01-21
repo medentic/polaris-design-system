@@ -1,5 +1,5 @@
 import React, {useState, useMemo} from 'react';
-import {SortIcon} from '@shopify/polaris-icons';
+import {SortIcon} from '@medentic/polaris-icons';
 
 import {useI18n} from '../../../../utilities/i18n';
 import {Popover} from '../../../Popover';

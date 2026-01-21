@@ -1,5 +1,5 @@
 import React from 'react';
-import type {SpaceScale} from '@shopify/polaris-tokens';
+import type {SpaceScale} from '@medentic/polaris-tokens';
 
 import {
   classNames,

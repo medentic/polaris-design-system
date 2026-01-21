@@ -1,6 +1,6 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {UploadIcon} from '@shopify/polaris-icons';
+import {UploadIcon} from '@medentic/polaris-icons';
 
 import {DropZoneContext} from '../../../context';
 import {FileUpload} from '../FileUpload';

@@ -1,5 +1,5 @@
 import React from 'react';
-import {LayoutColumns3Icon} from '@shopify/polaris-icons';
+import {LayoutColumns3Icon} from '@medentic/polaris-icons';
 
 import {useI18n} from '../../../../utilities/i18n';
 import {Button} from '../../../Button';

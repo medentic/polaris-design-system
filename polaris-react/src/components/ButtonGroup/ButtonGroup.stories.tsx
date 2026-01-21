@@ -1,7 +1,7 @@
 import React, {useCallback, useState} from 'react';
 import type {Meta} from '@storybook/react';
 import {Button, ButtonGroup, Icon, BlockStack, Text} from '@shopify/polaris';
-import {DeleteIcon} from '@shopify/polaris-icons';
+import {DeleteIcon} from '@medentic/polaris-icons';
 
 export default {
   component: ButtonGroup,

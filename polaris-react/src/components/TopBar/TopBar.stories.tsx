@@ -1,7 +1,7 @@
 import React, {useCallback, useState} from 'react';
 import type {Meta} from '@storybook/react';
 import {ActionList, Frame, Icon, TopBar, Text, Avatar} from '@shopify/polaris';
-import {ArrowLeftIcon, QuestionCircleIcon} from '@shopify/polaris-icons';
+import {ArrowLeftIcon, QuestionCircleIcon} from '@medentic/polaris-icons';
 
 import type {UserMenuProps} from '../../../build/ts/latest/src/components/TopBar';
 

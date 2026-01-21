@@ -14,7 +14,7 @@ import {
   Text,
   Box,
 } from '@shopify/polaris';
-import {PlusCircleIcon, SearchIcon} from '@shopify/polaris-icons';
+import {PlusCircleIcon, SearchIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Listbox,

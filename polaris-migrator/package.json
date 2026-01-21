@@ -7,7 +7,7 @@
   "homepage": "https://polaris.shopify.com",
   "repository": "https://github.com/Shopify/polaris",
   "engines": {
-    "node": ">=20.10.0"
+    "node": ">=24.0.0"
   },
   "bugs": {
     "url": "https://github.com/Shopify/polaris/issues"
@@ -55,7 +55,7 @@
     "@rollup/plugin-commonjs": "^22.0.2",
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^13.3.0",
-    "@shopify/polaris": "^13.10.1",
+    "@shopify/polaris": "^13.9.5",
     "plop": "^3.1.1",
     "plop-dir": "^0.0.5",
     "prettier": "^2.7.1",

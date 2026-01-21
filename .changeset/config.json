@@ -1,13 +1,19 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.0.0/schema.json",
-  "changelog": ["@changesets/changelog-github", {"repo": "Shopify/polaris"}],
+  "changelog": ["@changesets/changelog-github", {"repo": "medentic/polaris-design-system"}],
   "commit": false,
   "fixed": [],
   "linked": [],
-  "access": "public",
+  "access": "restricted",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": [],
+  "ignore": [
+    "@shopify/polaris-migrator",
+    "@shopify/stylelint-polaris",
+    "polaris-for-vscode",
+    "polaris.shopify.com",
+    "polaris.shopify.com-get-props"
+  ],
   "___experimentalUnsafeOptions_WILL_CHANGE_IN_PATCH": {
     "updateInternalDependents": "always"
   }

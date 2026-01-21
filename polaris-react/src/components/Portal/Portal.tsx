@@ -1,4 +1,4 @@
-import {themeNameDefault} from '@shopify/polaris-tokens';
+import {themeNameDefault} from '@medentic/polaris-tokens';
 import React, {useEffect, useId} from 'react';
 import {createPortal} from 'react-dom';
 

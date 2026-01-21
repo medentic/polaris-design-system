@@ -1,7 +1,7 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {Badge, CalloutCard, Text} from '@shopify/polaris';
-import {SmileyHappyIcon, SmileySadIcon} from '@shopify/polaris-icons';
+import {SmileyHappyIcon, SmileySadIcon} from '@medentic/polaris-icons';
 
 export default {
   component: CalloutCard,

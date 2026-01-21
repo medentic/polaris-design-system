@@ -1,6 +1,6 @@
 import React, {useEffect, useCallback, useRef, useReducer} from 'react';
 import type {KeyboardEvent, FocusEvent} from 'react';
-import {ChevronDownIcon, PlusIcon} from '@shopify/polaris-icons';
+import {ChevronDownIcon, PlusIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../utilities/css';
 import {useI18n} from '../../utilities/i18n';

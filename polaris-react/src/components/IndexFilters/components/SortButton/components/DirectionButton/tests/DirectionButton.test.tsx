@@ -1,5 +1,5 @@
 import React from 'react';
-import {ArrowUpIcon, ArrowDownIcon} from '@shopify/polaris-icons';
+import {ArrowUpIcon, ArrowDownIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {UnstyledButton} from '../../../../../../UnstyledButton';

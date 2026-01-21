@@ -7,7 +7,7 @@ import type {
   BorderRadiusAliasOrScale,
   ShadowAliasOrScale,
   SpaceScale,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 
 import {
   getResponsiveProps,

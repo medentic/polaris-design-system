@@ -1,5 +1,5 @@
 import React from 'react';
-import {XIcon} from '@shopify/polaris-icons';
+import {XIcon} from '@medentic/polaris-icons';
 
 import {classNames} from '../../utilities/css';
 import {useI18n} from '../../utilities/i18n';

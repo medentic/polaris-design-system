@@ -1,5 +1,5 @@
-import type {BreakpointsAlias} from '@shopify/polaris-tokens';
-import {breakpointsAliases} from '@shopify/polaris-tokens';
+import type {BreakpointsAlias} from '@medentic/polaris-tokens';
+import {breakpointsAliases} from '@medentic/polaris-tokens';
 
 import {isObject} from './is-object';
 

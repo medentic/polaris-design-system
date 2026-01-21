@@ -1,5 +1,5 @@
 import React, {useEffect, useRef} from 'react';
-import {AlertCircleIcon, XSmallIcon} from '@shopify/polaris-icons';
+import {AlertCircleIcon, XSmallIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../../../utilities/css';
 import {Key} from '../../../../types';

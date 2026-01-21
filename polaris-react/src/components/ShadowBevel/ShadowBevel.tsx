@@ -2,7 +2,7 @@ import React from 'react';
 import type {
   BorderRadiusAliasOrScale,
   ShadowAliasOrScale,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 
 import {getResponsiveValue} from '../../utilities/css';
 import type {ResponsiveProp} from '../../utilities/css';

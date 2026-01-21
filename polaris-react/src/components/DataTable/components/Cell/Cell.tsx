@@ -1,6 +1,6 @@
 import React, {useRef} from 'react';
 import type {FocusEventHandler} from 'react';
-import {SortAscendingIcon, SortDescendingIcon} from '@shopify/polaris-icons';
+import {SortAscendingIcon, SortDescendingIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../../../utilities/css';
 import {useI18n} from '../../../../utilities/i18n';

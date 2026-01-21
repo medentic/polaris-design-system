@@ -1,5 +1,5 @@
 import React from 'react';
-import {XIcon, MenuHorizontalIcon} from '@shopify/polaris-icons';
+import {XIcon, MenuHorizontalIcon} from '@medentic/polaris-icons';
 
 import {useToggle} from '../../utilities/use-toggle';
 import {classNames} from '../../utilities/css';

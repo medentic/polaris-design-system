@@ -1,6 +1,6 @@
 import {createContext, useContext} from 'react';
-import type {ThemeName, Theme} from '@shopify/polaris-tokens';
-import {themes} from '@shopify/polaris-tokens';
+import type {ThemeName, Theme} from '@medentic/polaris-tokens';
+import {themes} from '@medentic/polaris-tokens';
 
 export const ThemeContext = createContext<Theme | null>(null);
 export const ThemeNameContext = createContext<ThemeName | null>(null);

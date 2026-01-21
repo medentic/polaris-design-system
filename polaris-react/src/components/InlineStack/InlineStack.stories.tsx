@@ -1,7 +1,7 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {Box, Badge, Icon, InlineStack, Thumbnail} from '@shopify/polaris';
-import {FlowerIcon, ImageIcon} from '@shopify/polaris-icons';
+import {FlowerIcon, ImageIcon} from '@medentic/polaris-icons';
 
 export default {
   component: InlineStack,

@@ -4,7 +4,7 @@ import {
   ChevronUpIcon,
   ChevronDownIcon,
   XSmallIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 import {classNames} from '../../utilities/css';
 import {ResourceListContext} from '../../utilities/resource-list';

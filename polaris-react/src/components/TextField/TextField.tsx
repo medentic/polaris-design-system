@@ -6,7 +6,7 @@ import React, {
   useCallback,
   useId,
 } from 'react';
-import {XCircleIcon} from '@shopify/polaris-icons';
+import {XCircleIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../utilities/css';
 import {useI18n} from '../../utilities/i18n';

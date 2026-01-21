@@ -21,7 +21,7 @@ import {
   DeleteIcon,
   QuestionCircleIcon,
   SearchIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 export default {
   component: TextField,

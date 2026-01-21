@@ -11,7 +11,7 @@ import {
   TextField,
   Text,
 } from '@shopify/polaris';
-import {CaretDownIcon, CaretUpIcon} from '@shopify/polaris-icons';
+import {CaretDownIcon, CaretUpIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Select,

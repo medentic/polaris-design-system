@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useCallback, useMemo} from 'react';
-import {ArrowLeftIcon, ArrowRightIcon} from '@shopify/polaris-icons';
+import {ArrowLeftIcon, ArrowRightIcon} from '@medentic/polaris-icons';
 
 import {Button} from '../Button';
 import {classNames} from '../../utilities/css';

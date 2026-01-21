@@ -1,6 +1,6 @@
 import React, {useRef, useState, useEffect, useCallback, useMemo} from 'react';
-import {SortAscendingIcon, SortDescendingIcon} from '@shopify/polaris-icons';
-import type {SpaceScale} from '@shopify/polaris-tokens';
+import {SortAscendingIcon, SortDescendingIcon} from '@medentic/polaris-icons';
+import type {SpaceScale} from '@medentic/polaris-tokens';
 
 import {debounce} from '../../utilities/debounce';
 import {useToggle} from '../../utilities/use-toggle';

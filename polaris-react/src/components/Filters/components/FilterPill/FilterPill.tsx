@@ -1,5 +1,5 @@
 import React, {useState, useEffect, useRef, useCallback} from 'react';
-import {XSmallIcon, ChevronDownIcon} from '@shopify/polaris-icons';
+import {XSmallIcon, ChevronDownIcon} from '@medentic/polaris-icons';
 
 import {useI18n} from '../../../../utilities/i18n';
 import {useToggle} from '../../../../utilities/use-toggle';

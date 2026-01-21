@@ -19,7 +19,7 @@ import {
   Modal,
   Scrollable,
 } from '@shopify/polaris';
-import {DeleteIcon} from '@shopify/polaris-icons';
+import {DeleteIcon} from '@medentic/polaris-icons';
 
 export default {
   component: ResourceList,

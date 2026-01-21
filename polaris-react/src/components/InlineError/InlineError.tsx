@@ -1,5 +1,5 @@
 import React from 'react';
-import {AlertCircleIcon} from '@shopify/polaris-icons';
+import {AlertCircleIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../Icon';
 import {Text} from '../Text';

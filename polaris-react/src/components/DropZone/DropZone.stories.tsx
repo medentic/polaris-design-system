@@ -11,7 +11,7 @@ import {
   Thumbnail,
   InlineStack,
 } from '@shopify/polaris';
-import {NoteIcon} from '@shopify/polaris-icons';
+import {NoteIcon} from '@medentic/polaris-icons';
 
 export default {
   component: DropZone,

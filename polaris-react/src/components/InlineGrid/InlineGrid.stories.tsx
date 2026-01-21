@@ -1,7 +1,7 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {Button, InlineGrid, Page} from '@shopify/polaris';
-import {ChevronLeftIcon, ChevronRightIcon} from '@shopify/polaris-icons';
+import {ChevronLeftIcon, ChevronRightIcon} from '@medentic/polaris-icons';
 
 export default {
   component: InlineGrid,

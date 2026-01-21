@@ -1,5 +1,5 @@
 import React, {useContext} from 'react';
-import {UploadIcon} from '@shopify/polaris-icons';
+import {UploadIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../../../Icon';
 import {classNames} from '../../../../utilities/css';

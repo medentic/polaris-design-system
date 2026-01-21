@@ -26,7 +26,7 @@ import {
   ChatIcon,
   HomeIcon,
   OrderIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 export default {
   component: Frame,

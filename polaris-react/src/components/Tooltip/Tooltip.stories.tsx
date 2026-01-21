@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {QuestionCircleIcon} from '@shopify/polaris-icons';
+import {QuestionCircleIcon} from '@medentic/polaris-icons';
 import type {Meta} from '@storybook/react';
 import {
   Button,

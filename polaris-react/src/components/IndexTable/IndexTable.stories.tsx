@@ -32,7 +32,7 @@ import {
   EditIcon,
   ExportIcon,
   ProductIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 import {IndexTable} from './IndexTable';
 

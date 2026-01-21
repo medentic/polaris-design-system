@@ -1,5 +1,5 @@
 import React from 'react';
-import {XCircleIcon} from '@shopify/polaris-icons';
+import {XCircleIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {Icon} from '../../../../Icon';

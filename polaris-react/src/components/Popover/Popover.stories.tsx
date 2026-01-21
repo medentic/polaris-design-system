@@ -20,7 +20,7 @@ import {
   Text,
   BlockStack,
 } from '@shopify/polaris';
-import {SearchIcon, SelectIcon} from '@shopify/polaris-icons';
+import {SearchIcon, SelectIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Popover,

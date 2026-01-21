@@ -1,5 +1,5 @@
 import React from 'react';
-import {ArrowLeftIcon} from '@shopify/polaris-icons';
+import {ArrowLeftIcon} from '@medentic/polaris-icons';
 
 import type {CallbackAction, LinkAction} from '../../types';
 import {handleMouseUpByBlurring} from '../../utilities/focus';

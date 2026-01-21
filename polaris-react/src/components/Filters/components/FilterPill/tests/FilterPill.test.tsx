@@ -1,6 +1,6 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {ChevronDownIcon} from '@shopify/polaris-icons';
+import {ChevronDownIcon} from '@medentic/polaris-icons';
 
 import {FilterPill} from '../FilterPill';
 import type {FilterPillProps} from '../FilterPill';

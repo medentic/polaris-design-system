@@ -1,5 +1,5 @@
 import React, {useRef} from 'react';
-import {MenuHorizontalIcon} from '@shopify/polaris-icons';
+import {MenuHorizontalIcon} from '@medentic/polaris-icons';
 
 import type {DestructableAction, DisableableAction} from '../../../../types';
 import type {ButtonProps} from '../../../Button';

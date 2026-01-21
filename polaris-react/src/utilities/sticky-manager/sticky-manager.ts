@@ -1,4 +1,4 @@
-import {themeDefault} from '@shopify/polaris-tokens';
+import {themeDefault} from '@medentic/polaris-tokens';
 
 import {debounce} from '../debounce';
 import {dataPolarisTopBar, scrollable} from '../../components/shared';

@@ -5,7 +5,7 @@ import {
   AlertTriangleIcon,
   InfoIcon,
   AlertDiamondIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {Button} from '../../Button';

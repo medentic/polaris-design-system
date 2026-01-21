@@ -1,5 +1,5 @@
 import React, {memo, useContext} from 'react';
-import {CheckIcon} from '@shopify/polaris-icons';
+import {CheckIcon} from '@medentic/polaris-icons';
 
 import {Box} from '../../../Box';
 import {Checkbox} from '../../../Checkbox';

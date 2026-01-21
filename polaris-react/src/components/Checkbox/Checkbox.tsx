@@ -5,7 +5,7 @@ import React, {
   useContext,
   useId,
 } from 'react';
-import {MinusIcon} from '@shopify/polaris-icons';
+import {MinusIcon} from '@medentic/polaris-icons';
 
 import {classNames, variationName} from '../../utilities/css';
 import type {ResponsiveProp} from '../../utilities/css';

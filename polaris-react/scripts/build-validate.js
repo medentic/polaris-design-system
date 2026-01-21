@@ -91,6 +91,9 @@ function validateEsNextBuild() {
 
 function validateAncillaryOutput() {
   assert.ok(fs.existsSync('./build/ts/src/index.d.ts'));
+  assert.ok(fs.existsSync('./styles.css'));
+  assert.ok(fs.existsSync('./types.d.ts'));
+  assert.ok(fs.existsSync('./locales/en.json'));
 }
 
 function validateVersionReplacement() {

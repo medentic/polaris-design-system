@@ -5,7 +5,7 @@ import {
   NoteIcon,
   AlertTriangleIcon,
   AlertCircleIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 export default {
   component: ExceptionList,

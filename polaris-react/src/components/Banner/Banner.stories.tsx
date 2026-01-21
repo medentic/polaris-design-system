@@ -14,7 +14,7 @@ import {
   Text,
   TextContainer,
 } from '@shopify/polaris';
-import {DiscountIcon} from '@shopify/polaris-icons';
+import {DiscountIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Banner,

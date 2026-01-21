@@ -2,7 +2,7 @@ import React, {useEffect, useState, useRef, useCallback, useId} from 'react';
 import type {
   BorderRadiusAliasOrScale,
   SpaceScale,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 
 import {Portal} from '../Portal';
 import {Text} from '../Text';

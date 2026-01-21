@@ -1,6 +1,6 @@
 import React, {useMemo, Fragment, StrictMode} from 'react';
-import type {ThemeName} from '@shopify/polaris-tokens';
-import {themeNameDefault} from '@shopify/polaris-tokens';
+import type {ThemeName} from '@medentic/polaris-tokens';
+import {themeNameDefault} from '@medentic/polaris-tokens';
 
 import {PortalsManager} from '../PortalsManager';
 import {FocusManager} from '../FocusManager';

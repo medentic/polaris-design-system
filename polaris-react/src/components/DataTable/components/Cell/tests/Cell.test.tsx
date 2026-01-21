@@ -1,6 +1,6 @@
 import React from 'react';
 import type {ReactElement} from 'react';
-import {SortAscendingIcon, SortDescendingIcon} from '@shopify/polaris-icons';
+import {SortAscendingIcon, SortDescendingIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {Icon} from '../../../../Icon';

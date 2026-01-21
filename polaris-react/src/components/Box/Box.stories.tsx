@@ -1,7 +1,7 @@
 import React from 'react';
 import type {Meta} from '@storybook/react';
 import {BlockStack, Text, Box, Icon} from '@shopify/polaris';
-import {PaintBrushFlatIcon} from '@shopify/polaris-icons';
+import {PaintBrushFlatIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Box,

@@ -1,4 +1,4 @@
-import {SelectIcon} from '@shopify/polaris-icons';
+import {SelectIcon} from '@medentic/polaris-icons';
 import React, {forwardRef} from 'react';
 
 import {BlockStack} from '../../../BlockStack';

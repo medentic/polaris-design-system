@@ -1,5 +1,5 @@
 import React from 'react';
-import {PlusCircleIcon, NoteIcon} from '@shopify/polaris-icons';
+import {PlusCircleIcon, NoteIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {ExceptionList} from '../ExceptionList';

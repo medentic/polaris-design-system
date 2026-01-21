@@ -3,7 +3,7 @@ import type {
   ColorBackgroundAlias,
   BorderRadiusAliasOrScale,
   SpaceScale,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 import React from 'react';
 
 import {useBreakpoints} from '../../utilities/breakpoints';

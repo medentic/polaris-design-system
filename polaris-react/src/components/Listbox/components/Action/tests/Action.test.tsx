@@ -1,5 +1,5 @@
 import React from 'react';
-import {PlusCircleIcon, PlusIcon} from '@shopify/polaris-icons';
+import {PlusCircleIcon, PlusIcon} from '@medentic/polaris-icons';
 import {mountWithListboxProvider} from 'tests/utilities/listbox';
 
 import {Action} from '../Action';

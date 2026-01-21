@@ -1,5 +1,5 @@
 import React from 'react';
-import {ChevronDownIcon, ChevronUpIcon} from '@shopify/polaris-icons';
+import {ChevronDownIcon, ChevronUpIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../../../Icon';
 import styles from '../../TextField.module.css';

@@ -16,26 +16,26 @@ The `package.json` engines. This should match the `.github/workflows/ci.yml` and
 
 ```json
 "engines": {
-  "node": ">=20.11.1"
+  "node": ">=24.0.0"
 },
 ```
 
 The GitHub actions `.github/workflows/ci.yml` file. This should match the `package.json` and list all supported versions.
 
 ```yml
-node-version: ['20.11.1']
+node-version: ['24.0.0', '24']
 ```
 
 The `dev.yml` file which creates a local development environment. This should match the `.nvmrc` file.
 
 ```yml
-version: v20.11.1
+version: 24
 ```
 
 The `.nvmrc` file for local development. This should match the `dev.yml` file.
 
 ```
-v20.11.1
+24
 ```
 
 The `shipit.yml` files. This should point towards the GitHub Actions the packages require to pass before publishing.
@@ -43,11 +43,11 @@ The `shipit.yml` files. This should point towards the GitHub Actions the package
 ```yml
 ci:
   require:
-    - 'Validate with Node v20.11.1'
+    - 'Validate with Node v24'
 
 merge:
   require:
-    - 'Validate with Node v20.11.1'
+    - 'Validate with Node v24'
 ```
 
 The `rollup.config.mjs` for some monorepo packages. This should match the minimum supported version.

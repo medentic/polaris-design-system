@@ -1,5 +1,5 @@
 import React, {PureComponent, Children, createRef} from 'react';
-import {themeDefault} from '@shopify/polaris-tokens';
+import {themeDefault} from '@medentic/polaris-tokens';
 
 import {findFirstKeyboardFocusableNode} from '../../../../utilities/focus';
 import {classNames, variationName} from '../../../../utilities/css';

@@ -1,5 +1,5 @@
 import React from 'react';
-import {PlusIcon} from '@shopify/polaris-icons';
+import {PlusIcon} from '@medentic/polaris-icons';
 import {mountWithApp} from 'tests/utilities';
 
 import {ActionMenu} from '../../../../ActionMenu';

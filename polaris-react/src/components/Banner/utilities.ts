@@ -2,13 +2,13 @@ import type {
   ColorBackgroundAlias,
   ColorIconAlias,
   ColorTextAlias,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 import {
   AlertDiamondIcon,
   InfoIcon,
   AlertTriangleIcon,
   CheckIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 import {useImperativeHandle, useRef, useState} from 'react';
 
 import type {IconSource} from '../../types';

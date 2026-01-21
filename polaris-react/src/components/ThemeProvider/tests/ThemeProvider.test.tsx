@@ -1,7 +1,7 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {themeNameDefault} from '@shopify/polaris-tokens';
-import type {ThemeName} from '@shopify/polaris-tokens';
+import {themeNameDefault} from '@medentic/polaris-tokens';
+import type {ThemeName} from '@medentic/polaris-tokens';
 
 import {ThemeProvider} from '../ThemeProvider';
 import {useThemeName} from '../../../utilities/use-theme';

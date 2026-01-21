@@ -1,6 +1,6 @@
 import React from 'react';
 import type {CSSProperties} from 'react';
-import {SearchIcon, FilterIcon} from '@shopify/polaris-icons';
+import {SearchIcon, FilterIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../../../Icon';
 import {Tooltip} from '../../../Tooltip';

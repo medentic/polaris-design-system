@@ -1,8 +1,8 @@
 import React from 'react';
 import {mount} from 'tests/utilities';
 import {matchMedia} from '@shopify/jest-dom-mocks';
-import {themeDefault, getMediaConditions} from '@shopify/polaris-tokens';
-import type {BreakpointsTokenName} from '@shopify/polaris-tokens';
+import {themeDefault, getMediaConditions} from '@medentic/polaris-tokens';
+import type {BreakpointsTokenName} from '@medentic/polaris-tokens';
 
 import {useBreakpoints, getBreakpointsQueryEntries} from '../breakpoints';
 import type {BreakpointsDirectionAlias} from '../breakpoints';

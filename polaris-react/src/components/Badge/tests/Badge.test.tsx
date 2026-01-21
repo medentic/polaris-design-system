@@ -1,6 +1,6 @@
 import React from 'react';
 import {mountWithApp} from 'tests/utilities';
-import {GlobeIcon} from '@shopify/polaris-icons';
+import {GlobeIcon} from '@medentic/polaris-icons';
 
 import {Text} from '../../Text';
 import {Icon} from '../../Icon';

@@ -1,5 +1,5 @@
 import React, {useId} from 'react';
-import {SearchIcon} from '@shopify/polaris-icons';
+import {SearchIcon} from '@medentic/polaris-icons';
 
 import {Icon} from '../../../Icon';
 import {TextField} from '../../../TextField';

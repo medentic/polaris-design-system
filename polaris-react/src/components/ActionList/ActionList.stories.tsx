@@ -19,7 +19,7 @@ import {
   PersonIcon,
   DuplicateIcon,
   ArchiveIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 export default {
   component: ActionList,

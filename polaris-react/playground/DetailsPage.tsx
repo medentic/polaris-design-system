@@ -13,7 +13,7 @@ import {
   ProductIcon,
   SettingsIcon,
   WifiIcon,
-} from '@shopify/polaris-icons';
+} from '@medentic/polaris-icons';
 
 import {
   ActionList,

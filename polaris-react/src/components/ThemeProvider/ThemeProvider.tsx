@@ -1,5 +1,5 @@
 import React from 'react';
-import {themeNameDefault, createThemeClassName} from '@shopify/polaris-tokens';
+import {themeNameDefault, createThemeClassName} from '@medentic/polaris-tokens';
 
 import {
   ThemeContext,

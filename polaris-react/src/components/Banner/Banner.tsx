@@ -7,8 +7,8 @@ import React, {
   useCallback,
 } from 'react';
 import type {PropsWithChildren} from 'react';
-import type {ColorTextAlias} from '@shopify/polaris-tokens';
-import {XIcon} from '@shopify/polaris-icons';
+import type {ColorTextAlias} from '@medentic/polaris-tokens';
+import {XIcon} from '@medentic/polaris-icons';
 
 import type {Action, DisableableAction, LoadableAction} from '../../types';
 import {Text} from '../Text';

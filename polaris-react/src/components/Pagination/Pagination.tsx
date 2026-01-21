@@ -1,4 +1,4 @@
-import {ChevronLeftIcon, ChevronRightIcon} from '@shopify/polaris-icons';
+import {ChevronLeftIcon, ChevronRightIcon} from '@medentic/polaris-icons';
 import React, {createRef} from 'react';
 
 import type {Key} from '../../types';

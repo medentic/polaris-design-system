@@ -10,7 +10,7 @@ const postcssMixins = require('postcss-mixins');
 const postcssDiscardComments = require('postcss-discard-comments');
 
 const mediaQueriesCssPath = require.resolve(
-  '@shopify/polaris-tokens/css/media-queries.css',
+  '@medentic/polaris-tokens/css/media-queries.css',
 );
 
 module.exports = [

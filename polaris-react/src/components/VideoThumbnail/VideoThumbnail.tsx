@@ -1,5 +1,5 @@
 import React from 'react';
-import {PlayIcon} from '@shopify/polaris-icons';
+import {PlayIcon} from '@medentic/polaris-icons';
 
 import {useI18n} from '../../utilities/i18n';
 import {

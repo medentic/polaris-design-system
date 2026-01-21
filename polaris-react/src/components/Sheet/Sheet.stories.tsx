@@ -16,7 +16,7 @@ import {
   Icon,
   AutoSelection,
 } from '@shopify/polaris';
-import {XIcon, SearchIcon} from '@shopify/polaris-icons';
+import {XIcon, SearchIcon} from '@medentic/polaris-icons';
 
 export default {
   component: Sheet,

@@ -1,10 +1,10 @@
 import {useState} from 'react';
-import {getMediaConditions, themeDefault} from '@shopify/polaris-tokens';
+import {getMediaConditions, themeDefault} from '@medentic/polaris-tokens';
 import type {
   BreakpointsAlias,
   BreakpointsAliasDirection,
   BreakpointsTokenGroup,
-} from '@shopify/polaris-tokens';
+} from '@medentic/polaris-tokens';
 
 import {isServer} from './target';
 import {useIsomorphicLayoutEffect} from './use-isomorphic-layout-effect';

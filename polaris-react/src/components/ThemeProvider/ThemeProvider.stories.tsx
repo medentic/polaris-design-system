@@ -8,7 +8,7 @@ import {
   ThemeProvider,
   InlineStack,
 } from '@shopify/polaris';
-import {HeartIcon, NotificationIcon} from '@shopify/polaris-icons';
+import {HeartIcon, NotificationIcon} from '@medentic/polaris-icons';
 
 export default {
   component: ThemeProvider,
