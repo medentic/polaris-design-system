@@ -1,5 +1,8 @@
 import React from 'react';
-import type {BorderWidthScale, ColorBorderAlias} from '@medentic/polaris-tokens';
+import type {
+  BorderWidthScale,
+  ColorBorderAlias,
+} from '@medentic/polaris-tokens';
 
 import styles from './Divider.module.css';
 
