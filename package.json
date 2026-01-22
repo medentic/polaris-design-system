@@ -15,7 +15,7 @@
     "test:watch": "jest --watch",
     "clean": "turbo run clean && rm -rf node_modules",
     "format": "prettier . --write",
-    "type-check": "tsc --build",
+    "type-check": "pnpm --filter=@medentic/polaris-react build:types && pnpm --filter=@medentic/polaris-tokens build:types",
     "changeset": "changeset",
     "gen-assets": "turbo run gen-assets --filter=polaris.shopify.com",
     "version-packages": "changeset version && pnpm install --lockfile-only",

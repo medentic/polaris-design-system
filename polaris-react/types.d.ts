@@ -1,4 +1,4 @@
-import type * as React from 'react';
+import type * as ReactJsxRuntime from 'react/jsx-runtime';
 
 declare module 'react' {
   interface ReactHTML {
@@ -7,10 +7,12 @@ declare module 'react' {
 }
 
 declare global {
+  // eslint-disable-next-line @typescript-eslint/no-namespace
   namespace JSX {
-    type Element = React.JSX.Element;
-    type IntrinsicElements = React.JSX.IntrinsicElements;
-    type ElementChildrenAttribute = React.JSX.ElementChildrenAttribute;
+    type Element = ReactJsxRuntime.JSX.Element;
+    type IntrinsicElements = ReactJsxRuntime.JSX.IntrinsicElements;
+    type ElementChildrenAttribute =
+      ReactJsxRuntime.JSX.ElementChildrenAttribute;
   }
 }
 
