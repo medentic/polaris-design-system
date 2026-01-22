@@ -120,6 +120,8 @@ jobs:
   visual_regression_test:
     name: 'Visual regression test'
     runs-on: ubuntu-latest
+    env:
+      CHROMATIC_PROJECT_TOKEN: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
     steps:
       - name: Checkout branch
         uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744 # v3.6.0
@@ -159,11 +161,16 @@ jobs:
           STORYBOOK_GITHUB_REPO_URL: ${{ github.server_url }}/${{ github.repository }}
           STORYBOOK_GITHUB_PR: ${{ github.event.number }}
 
+      - name: Skip Chromatic tests (not configured)
+        if: ${{ env.CHROMATIC_PROJECT_TOKEN == '' }}
+        run: echo "CHROMATIC_PROJECT_TOKEN is not set; skipping Chromatic upload."
+
       - name: Run Chromatic tests
+        if: ${{ env.CHROMATIC_PROJECT_TOKEN != '' }}
         uses: chromaui/action@c93e0bc3a63aa176e14a75b61a31847cbfdd341c # v11.27.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
+          projectToken: ${{ env.CHROMATIC_PROJECT_TOKEN }}
           autoAcceptChanges: 'main'
           storybookBuildDir: 'polaris-react/build-internal/storybook/static'
           exitZeroOnChanges: true
