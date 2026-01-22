@@ -1,5 +1,15 @@
 # Changelog
 
+## 19.0.1
+
+### Patch Changes
+
+- [`faaa7b3`](https://github.com/medentic/polaris-design-system/commit/faaa7b3e9138d76452ebbf341c2b146e62f0daff) Thanks [@junaidatique](https://github.com/junaidatique)! - Configure publishing for `@medentic/polaris-*` packages via GitHub Packages.
+
+- Updated dependencies [[`faaa7b3`](https://github.com/medentic/polaris-design-system/commit/faaa7b3e9138d76452ebbf341c2b146e62f0daff)]:
+  - @medentic/polaris-icons@19.0.1
+  - @medentic/polaris-tokens@19.0.1
+
 ## 13.10.1
 
 ### Patch Changes

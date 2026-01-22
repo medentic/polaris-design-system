@@ -267,10 +267,10 @@ importers:
   polaris-react:
     dependencies:
       '@medentic/polaris-icons':
-        specifier: ^19.0.0
+        specifier: ^19.0.1
         version: link:../polaris-icons
       '@medentic/polaris-tokens':
-        specifier: ^19.0.0
+        specifier: ^19.0.1
         version: link:../polaris-tokens
       '@types/react':
         specifier: '*'

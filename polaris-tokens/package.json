@@ -1,6 +1,6 @@
 {
   "name": "@medentic/polaris-tokens",
-  "version": "19.0.0",
+  "version": "19.0.1",
   "description": "",
   "main": "dist/cjs/build/index.js",
   "module": "dist/esm/build/index.mjs",
